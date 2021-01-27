@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nizam014:nizam313@georgiandevelopers-uut3h.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretkey",
+  "githubClientId": "b60eb8e5175877c22058",
+  "githubSecret": "b43eff9dd4dea1d663b88b457b9609cc7068c59d"
+}
